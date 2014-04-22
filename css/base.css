@@ -1,0 +1,15 @@
+body   {
+	   font-family: Copperplate, "Copperplate Gothic Light", fantasy, sans-serif;
+       font-size: 1em;
+       background: #00cc99;
+       }
+       
+#header {
+	position: relative;
+	width: 100%;
+	margin: 0px;
+}
+
+#raindropWoman {
+	width: 100%;
+}

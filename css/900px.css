@@ -1,0 +1,168 @@
+
+
+body   {
+	   font-family: Copperplate, "Copperplate Gothic Light", fantasy, sans-serif;
+       font-size: 1em;
+       background: #00cc99 url('../images/bodyphoto.jpg') no-repeat fixed;
+       background-size: cover;
+       }
+
+#logo {
+	display: none;
+}
+
+
+#pagewrapper {
+				width:960px;
+				margin:0 auto;
+}
+
+#header {
+	position: relative;
+	width: 960px;
+	height: 376px;
+	margin: 0px;
+	background: url(http://ctec.clark.edu/~c.jenkins5/images2/headerimage.jpg) no-repeat; 
+	
+}
+
+#nav /* selects the ID nav*/
+{
+
+	list-style-type:none; /*removes padding, bullets, and margins*/
+	padding:0;
+	padding-top:190px;
+	text-align:center;
+	/* width is already 1000% no need to designate it*/
+	 
+}
+#nav li /* selects li elements in the nav ID*/
+{
+	display:inline;
+	margin-right: 30px;
+	
+} /*moves nav buttons horizontally and adds padding.*/
+
+#nav a { /*only selects the links in the Nav ID*/
+	text-decoration: none;
+	color:black;
+	font-size: 1.4em;
+} /* removed underlines*/
+/* End navigation styling*/
+
+
+.calligraphy {
+	font-family:"lucida calligraphy", arial, sans-serif;
+	font-size: 2em;
+	color:#ffffff;
+	text-align:center;
+}
+.calligraphy1 {
+font-family:"lucida calligraphy", arial, sans-serif;
+	font-size: 1.3em;
+	color:#ffffff;
+	text-align:center;
+	padding: 20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.raindropWoman 
+{
+	position:relative;
+
+	/*margin-left: 180px; it positions the photo correctly, but does not show the welcome text*/
+}
+#raindropWoman 
+{
+
+	border-style: solid;
+	border-top-width: 90px;
+	border-right-width:130px;
+	border-bottom-width:90px;
+	border-left-width:130px;
+	border-color: #009999;
+	width: 700px;
+	
+}
+.text {
+	position:absolute;
+	top:230px;
+	left:150px;
+}
+	
+#tagline {
+	position: absolute;
+	top: 150px;
+	left:100px;
+}
+	
+#footer {
+	clear:both;
+	width:960px;
+	height:	30px;
+	padding: 5px 0px 20px 0px;
+	margin: 0;
+	background-color: #66ffff;
+	}
+.text2 {
+	margin-left: 222px;
+	color:#003366;
+}
+
+#content
+{
+	width: 900px;
+	background-color: #ffffcc;
+	margin:0;
+	padding:30px;
+	/*opacity:0.6;*/
+}
+#content2
+{
+	width: 960px;
+	background-color: #009999;
+	margin:0;
+	/*opacity:0.6;*/
+}
+#content3
+{
+	width: 960px;
+	background-color: #0099ff;
+	margin:0;
+	/*opacity:0.6;*/
+}
+
+#Merlinia
+{
+	float:right;
+	margin-right:20px;
+	margin-left:20px;
+}
+.larger
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:1em;
+	padding:30px;
+}
+.moveitbaby
+{
+	margin-top:30px; /*moved entire content block down*/
+	margin-left:30px;
+	padding-top:30px;
+}
+#nothingdark
+{
+	/*float:left;*/
+	margin-top:20px;
+	margin-right:20px;
+	
+}
+.movingon
+{
+	margin-left:30px;
+}
+.movealong
+{
+	text-align:center;
+{
